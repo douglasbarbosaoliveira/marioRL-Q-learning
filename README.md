@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/douglasbarbosaoliveira/marioRL-Q-learning
-/blob/main/MarioRL-Q-Learning.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/douglasbarbosaoliveira/marioRL-Q-learning/blob/main/MarioRL-Q-learning.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
   </a>
 </p>
