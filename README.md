@@ -9,6 +9,13 @@
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square"/>
 </p>
 
+<p align="center">
+  <a href="https://colab.research.google.com/github/douglasbarbosaoliveira/marioRL-Q-learning
+/blob/main/MarioRL-Q-Learning.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
+
 <img src="images/vistainicial.png" width="700" alt="Vista inicial del ambiente"/>
 
 </div>
